@@ -1,0 +1,5 @@
+dog.jpg|a golden retriever is sitting on the grass
+cat.jpg|a cat is sitting on the floor
+car.jpg|a red car is parked on a road
+bird.jpg|a blue bird is sitting on a tree branch
+person.jpg|a person is standing at the beach during sunset
