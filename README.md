@@ -7,8 +7,6 @@ The project uses a **CNN + LSTM architecture**, where a pretrained ResNet-50 ext
 ## 🚀 Live Demo
 https://image-captioning-ai-delta.vercel.app/
 
-### Frontend
-🔗 https://image-captioning-ai-delta.vercel.app/
 
 > Note: The frontend is deployed on Vercel. The backend inference service is currently running through a temporary development tunnel, so the backend must be active for caption generation to work.
 
